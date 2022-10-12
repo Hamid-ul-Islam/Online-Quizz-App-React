@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap');
+
+.question-card{
+    font-family: 'Poppins', sans-serif;
+    letter-spacing: 0.5;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 2px 3px #ccc;
+    margin: 5% 10% -4% 10%;
+    padding: 3%;
+}
+
+.eye{
+    width: 2%;
+    height: 100%;
+    top: 10px;
+    left: 15px;
+    position: absolute;
+}

@@ -1,0 +1,25 @@
+.error h1{
+    font-size: 5rem;
+    font-weight: 700;
+    color: #5765fb;
+    margin: 0;
+    padding: 0;
+    margin-top: 2rem;
+}
+
+.error h2{
+    font-weight: 700;
+    font-size: 2rem;
+    margin: 0;
+    padding: 0;
+    margin-top: -0.4rem;
+}
+
+.error{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 40vh;
+    text-align: end ;
+}
